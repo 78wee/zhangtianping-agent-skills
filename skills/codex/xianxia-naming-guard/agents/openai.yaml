@@ -1,0 +1,3 @@
+display_name: Xianxia Naming Guard
+short_description: Keep the AI xianxia naming universe consistent and understandable.
+default_prompt: Use the xianxia naming guard to decide whether a name belongs to the global cultivation-inspired universe or a local namespace such as NaN Xian's Notion system, then propose names and, when relevant, image-generation prompt packages that mix classic cultivation tropes with modern meme phrasing while staying precise, playful, clean, and understandable.

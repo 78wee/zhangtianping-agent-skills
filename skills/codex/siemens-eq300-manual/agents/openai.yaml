@@ -1,0 +1,4 @@
+interface:
+  display_name: "Siemens EQ300 Manual"
+  short_description: "查询西门子 EQ300 中文说明书、设置、清洁保养和故障处理。"
+  default_prompt: "查询西门子 EQ300 中文说明书，给出准确、可操作的咖啡机设置或故障处理建议。"

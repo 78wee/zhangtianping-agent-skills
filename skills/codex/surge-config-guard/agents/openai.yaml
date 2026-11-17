@@ -1,0 +1,4 @@
+interface:
+  display_name: "Surge Config Guard"
+  short_description: "Safe Surge profile editing"
+  default_prompt: "Safely inspect or modify my Surge configuration using backups, validation, reload checks, and rollback safeguards."

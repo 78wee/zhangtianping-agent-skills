@@ -1,0 +1,4 @@
+interface:
+  display_name: "Print Reading Handout"
+  short_description: "Stable A4 HTML-to-PDF handouts for macOS printing"
+  default_prompt: "Use $print-reading-handout to format the selected text as a clean A4 handout and print it to the default macOS printer."

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Exam Paper Check Print"
+  short_description: "Analyze scanned papers and print reports"
+  default_prompt: "Use $exam-paper-check-print to check this scanned exam paper, analyze local exam points, and print a report."
+
